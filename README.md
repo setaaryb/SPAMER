@@ -1,8 +1,6 @@
 # WELCOME
-    SELAMAT DATANG DI SC DOWNLOAD HENTAI
-    JANGAN TERLALU SERING YAH KIDS NANTI KERING TU LUTUT
-    SETIAP BULAN GW UPDATE JUDUL2 HENTAI BARU
-
+    SELAMAT DATANG DI SC SPAM SMS
+    BUAT NGERJAIN TEMEN / MANTAN / SPAM PENIPU
 # INSTALL BAHAN
      -apt update && apt upgrade -y
      -pkg install python
@@ -14,6 +12,9 @@
      -pkg install git
      -pkg install php
      -pip install colorma
+     -git clone https://github.com/SetaGanz/SPAMER
+     -cd SPAMER
+     -python sms.py
 
 # MY SOCIAL MEDIA
  ​[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/seto.sanwa.3) 
